@@ -15,7 +15,7 @@ Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU
 
    <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
   <em>{{ publi.authors }} </em><br />
-  {{ publi.conf.preamble }} {{ publi.conf.fullname }} **({{ publi.conf.abbreviation }})** {% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
+  {{ publi.conf.preamble }} <ul>{{ publi.conf.fullname }} **({{ publi.conf.abbreviation }})** </ul> {% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
   {% if publi.other %}<i>{{ publi.other }}</i> {% endif %}
 {% endfor %}
 

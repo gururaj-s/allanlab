@@ -15,7 +15,7 @@
   authors: Swamit Tannu, Zachary Myers, Prashant Nair, Douglas Carmean and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    Fullname:  50th Annual IEEE/ACM International Symposium on Microarchitecture
+    Fullname: 50th Annual IEEE/ACM International Symposium on Microarchitecture
     abbreviation: MICRO
     location: Cambridge, MA, USA
   date: October, 2017
@@ -171,10 +171,10 @@
   authors: Jian Huang, Anirudh Badam, Moinuddin K. Qureshi and Karsten Schwan
   conf:
     preamble: Appears in Proceedings of the
-    fullname: 42nd Annual International Symposium on Computer Architecture 
-    abbreviation:
-    location:
-  date:
+    fullname: ACM/IEEE 42nd Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Portland, OR, USA
+  date: June, 2015
   link:
     url: https://dl.acm.org/citation.cfm?id=2750420
     display:
