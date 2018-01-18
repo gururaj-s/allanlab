@@ -4,8 +4,8 @@
 
 - name: Resilient Memory Systems
   photo: rel.GIF
-  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  
+  description: Datacenters today require a strong level of security and availability. Resilient memories are the need of the hour, which are protected from both adversarial attacks and naturally occurring errors. Unfortunately, providing such guarantees involves an inherent cost in terms of performance and power, which often make these systems impractical. Our goal as computer architects, is to design scalable resilient memory systems that provide strong reliability and security, without incurring performance or energy costs.
+ 
 
 - name: Architecting Quantum Computers
   photo: quantum.jpg
