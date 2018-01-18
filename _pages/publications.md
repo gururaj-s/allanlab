@@ -18,7 +18,7 @@ Jump to [Conferences](#conferences), [Journals](#journals). Also available at [G
 {% for publi in site.data.publist_conf %}
 
   {% if publi.year != curr_year %}
-### Temp
+### {{ publi.year }}
   {% assign curr_year = publi.year %}
 
   {% endif %}
