@@ -11,13 +11,24 @@ permalink: /publications/
 
 Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
 
-{% for publi in site.data.publist %}
+## Conferences
+{% for publi in site.data.publist_conf %}
+
+   <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
+  <em>{{ publi.authors }} </em><br />
+  {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> **({{ publi.conf.abbreviation }})** {% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
+  {% if publi.other %}<br /><i>{{ publi.other }}</i> {% endif %}
+{% endfor %}
+
+## Journals
+{% for publi in site.data.publist_journal %}
 
    <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> **({{ publi.conf.abbreviation }})** {% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
   {% if publi.other %}<i>{{ publi.other }}</i> {% endif %}
 {% endfor %}
+
 
 {% comment %}
 ## Full List
@@ -71,3 +82,4 @@ Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU
 
 <p> &nbsp; </p>
 {% endcomment %}
+
