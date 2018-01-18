@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
+Jump to [Conferences](#conferences),[Journals](#journals). Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
 
 ## Conferences
 {% for publi in site.data.publist_conf %}
