@@ -60,7 +60,7 @@
     display: 
 
 - title: "FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs"
-  authors: Jian Huang, Anirudh Badam, Laura Caulfield, Suman Nath, Sudipta Sengupta, Bikash Sharma, Moinuddin K. Qureshi
+  authors: Jian Huang, Anirudh Badam, Laura Caulfield, Suman Nath, Sudipta Sengupta, Bikash Sharma and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
     fullname: 15th USENIX Conference on File and Storage Technologies
@@ -84,232 +84,235 @@
     display: 
 
 - title: "Energy Aware Persistence: Reducing the Energy Overheads of Persistent Memory"
-  authors: Sudarsun Kannan, Moinuddin K. Qureshi, Ada Gavrilovska, Karsten Schwa
+  authors: Sudarsun Kannan, Moinuddin K. Qureshi, Ada Gavrilovska and Karsten Schwan
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of 2016 Interna- tional Conference on Parallel Architecture and Compilation Techniques (PACT-25), pp 165-177, Septem- ber, 2016.
-    abbreviation:
-    location:
-  date:
+    fullname: 2016 International Conference on Parallel Architectures and Compilation
+    abbreviation: PACT
+    location: Haifa, Israel
+  date: September, 2016
   link:
-    url: 
+    url: https://dl.acm.org/citation.cfm?doid=2967938.2967953
     display: 
 
 - title: "An Evolutionary Study of Linux Memory Management for Fun and Profit"
-  authors: Jian Huang, Moinuddin K. Qureshi, Karsten Schwa
+  authors: Jian Huang, Moinuddin K. Qureshi and Karsten Schwan
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the USENIX Annual Technical Conference (USENIX ATC), pp 465-478, June, 2016.
-    abbreviation:
-    location:
-  date:
+    fullname: USENIX Annual Technical Conference
+    abbreviation: USENIX ATC
+    location: Denver, CO, USA
+  date: June, 2016
   link:
-    url: 
+    url: https://www.usenix.org/system/files/conference/atc16/atc16_paper-huang.pdf
     display: 
 
 - title: "XED: Exposing On-Die Error Detection Information for Strong Memory Reliability"
-  authors: Prashant Nair, Vilas Sridharan, Moinuddin K. Qureshi
+  authors: Prashant Nair, Vilas Sridharan and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 43rd Annual International Sympo- sium on Computer Architecture (ISCA-43), pp 341-353, June, 2016.
-    abbreviation:
-    location:
-  date:
+    fullname: ACM/IEEE 43rd Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Seoul, South Korea
+  date: June, 2016
   link:
-    url: 
+    url: https://dl.acm.org/citation.cfm?id=3001174
     display: 
 
 - title: "Low-Cost Inter-Linked Subarrays (LISA): Enabling Fast Inter-Subarray Data Movement in DRAM"
-  authors: Kevin K. Chang, Prashant Nair, Donghyuk Lee, Saugata Ghose, Moinuddin K. Qureshi, Onur Mutlu
+  authors: Kevin K. Chang, Prashant Nair, Donghyuk Lee, Saugata Ghose, Moinuddin K. Qureshi and Onur Mutlu
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 22nd Annual International Symposium on High-Performance Computer Architecture (HPCA-22), pp 568-580, Mar 2016.
-    abbreviation:
-    location:
-  date:
+    fullname: 2016 IEEE International Symposium on High Performance Computer Architecture
+    abbreviation: HPCA
+    location: Barcelona, Spain
+  date: March, 2016
   link:
-    url: 
+    url: http://ieeexplore.ieee.org/document/7446095/
     display: 
 
 - title: "AVATAR: A Variable-Retention-Time (VRT) Aware Refresh for DRAM Systems"
-  authors: Moinuddin K. Qureshi, Dae-Hyun Kim, Sameera Khan, Prashant Nair, Onur Mutlu
+  authors: Moinuddin K. Qureshi, Dae-Hyun Kim, Sameera Khan, Prashant Nair and Onur Mutlu
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the Interna- tional Conference on Dependable Systems and Networks (DSN), pp 427-437, 2015.
-    abbreviation:
-    location:
-  date:
+    fullname: 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+    abbreviation: DSN
+    location: Rio de Janeiro, Brazil
+  date: June, 2015
   link:
-    url: 
+    url: http://ieeexplore.ieee.org/document/7266870/
     display: 
 
 - title: "Reducing Refresh Power in Mobile Devices with Morphable ECC"
-  authors: Chia-Chen Chou, Prashant Nair, Moinuddin K. Qureshi
+  authors: Chia-Chen Chou, Prashant Nair and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the International Conference on Dependable Systems and Networks (DSN), pp 355-366, 2015.
-    abbreviation:
-    location:
-  date:
+    fullname: 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+    abbreviation: DSN
+    location: Rio de Janeiro, Brazil
+  date: June, 2015
   link:
-    url: 
-    display: 
+    url: http://ieeexplore.ieee.org/document/7266864/
+    display:
 
 - title: "BEAR: Techniques for Mitigating Band- width Bloat in Gigascale DRAM Caches"
-  authors: Chia-Chen Chou, Aamer Jaleel, Moinuddin K. Qureshi
+  authors: Chia-Chen Chou, Aamer Jaleel and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 42nd Annual International Symposium on Computer Architecture (ISCA-42), pp 198-210, 2015.
-    abbreviation:
-    location:
-  date:
+    fullname: ACM/IEEE 42nd Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Portland, OR, USA
+  date: June, 2015
   link:
-    url: 
+    url: http://ieeexplore.ieee.org/document/7284066/
     display: 
 
-- title: "Unified Address Trans- lation for Memory-Mapped SSDs with FlashMap"
-  authors: Jian Huang, Anirudh Badam, Moinuddin K. Qureshi, Karsten Schwan
+- title: "Unified Address Translation for Memory-Mapped SSDs with FlashMap"
+  authors: Jian Huang, Anirudh Badam, Moinuddin K. Qureshi and Karsten Schwan
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 42nd Annual International Symposium on Computer Architecture (ISCA-42), pp 580-591, 2015. (Honorable Mention in IEEE MICRO Top Picks 2016)
+    fullname: 42nd Annual International Symposium on Computer Architecture 
     abbreviation:
     location:
   date:
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/citation.cfm?id=2750420
+    display:
+  other: (Honorable Mention in IEEE MICRO Top Picks 2016)
 
 - title: "DEUCE: Write-Efficient Encryption for Non-Volatile Memories"
-  authors: Vinson Young, Prashant Nair, Moinuddin K. Qureshi
+  authors: Vinson Young, Prashant Nair and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-20), pp 33-44, Mar 2015. (Honorable Mention in IEEE MICRO Top Picks 2016)
-    abbreviation:
-    location:
-  date:
+    fullname: 20th International Conference on Architectural Support for Programming Languages and Operating Systems
+    abbreviation: ASPLOS
+    location: Istanbul, Turkey
+  date: March, 2015
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/citation.cfm?id=2694387
+    display:
+  other: (Honorable Mention in IEEE MICRO Top Picks 2016)
 
-- title: "Reducing Read La- tency of Phase Change Memory via Early Read and Turbo Read"
-  authors: Prashant Nair, Chia-Chen Chou, Bipin Rajendran, Moinuddin K. Qureshi
+- title: "Reducing Read Latency of Phase Change Memory via Early Read and Turbo Read"
+  authors: Prashant Nair, Chia-Chen Chou, Bipin Rajendran and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 21st Annual International Symposium on High-Performance Computer Architecture (HPCA-21), pp 309-319, Feb 2015.
-    abbreviation:
-    location:
-  date:
+    fullname: IEEE 21st International Symposium on High Performance Computer Architecture
+    abbreviation: HPCA
+    location: Burlingame, CA, USA
+  date: February, 2015
   link:
-    url: 
+    url: http://ieeexplore.ieee.org/document/7056042/
     display: 
 
 - title: "Balancing Context Switch Penalty and Response Time with Elastic Time Slicing"
   authors: Nagakishore Jammula, Moinuddin Qureshi, Ada Gavrilovska, and Jongman Kim
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the IEEE In- ternational Conference on High Performance Computing (HiPC), pp 1-10, Dec 2014. Best Paper Award
-    abbreviation:
-    location:
-  date:
+    fullname: 21st International Conference on High Performance Computing
+    abbreviation: HiPC
+    location: Dona Paula, India
+  date: December, 2014
   link:
-    url: 
-    display: 
+    url: http://ieeexplore.ieee.org/document/7056042/
+    display:
+  other: (Best Paper Award)
 
-- title: "CAMEO:A Two-Level Memory Organi- zation with Capacity of Main Memory and Flexibility of Hardware-Managed Cache"
-  authors: Chia-Chen Chou, Aamer Jaleel, Moinuddin K. Qureshi
+- title: "CAMEO:A Two-Level Memory Organization with Capacity of Main Memory and Flexibility of Hardware-Managed Cache"
+  authors: Chia-Chen Chou, Aamer Jaleel and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the International Symposium on Microarchitecture (MICRO-47), pp 1-12, Dec 2014.
-    abbreviation:
-    location:
-  date:
-  link:
-    url: 
+    fullname: 47th Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Cambridge, United Kingdom
+  date: December, 2014
+  link: 
+    url: https://dl.acm.org/citation.cfm?id=2742157 
     display: 
 
 - title: "Citadel: Efficiently Protecting Stacked Memory From Large Granularity Failures"
-  authors: Prashant Nair, David Roberts, Moinuddin K. Qureshi
+  authors: Prashant Nair, David Roberts and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the International Symposium on Microar- chitecture (MICRO-47), pp 51-62, Dec 2014.
-    abbreviation:
-    location:
-  date:
+    fullname: 47th Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Cambridge, United Kingdom
+  date: December, 2014
   link:
-    url: 
+    url: https://dl.acm.org/citation.cfm?id=2742161
     display: 
 
 - title: "Operating SECDED-Based Caches at Ultra-Low Voltage with FLAIR"
-  authors: Moinuddin K. Qureshi, and Zeshan Chishti
+  authors: Moinuddin K. Qureshi and Zeshan Chishti
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Appears in the Proceedings of the International Conference on Dependable Systems and Networks (DSN), pp 1-11, 2013.
-    abbreviation:
-    location:
-  date:
+    fullname: 43rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+    abbreviation: DSN
+    location: Budapest, Hungary 
+  date: June, 2013
   link:
-    url: 
-    display: 
+    url: http://ieeexplore.ieee.org/document/6575314/
+    display:
 
 - title: "ArchShield: Architectural Support for Assisting DRAM Scaling by Tolerating High Error Rates"
-  authors: Prashant Nair, Daehyun Kim, Moinuddin K. Qureshi
+  authors: Prashant Nair, Daehyun Kim and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Appears in the Proceedings of the 40th Annual International Symposium on Computer Architecture (ISCA-40), pp 72-83, 2013.
-    abbreviation:
-    location:
-  date:
+    fullname: 40th Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Tel-Aviv, Israel
+  date: June, 2013
   link:
-    url: 
-    display: 
+    url: https://dl.acm.org/citation.cfm?id=2485929
+    display:
 
 - title: "A Case for Refresh Pausing in DRAM Memory Systems"
-  authors: Prashant Nair, Chia-Chen Chou, and Moinuddin K. Qureshi
+  authors: Prashant Nair, Chia-Chen Chou and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 19th Annual International Symposium on High- Performance Computer Architecture (HPCA-19), pp 627-638, 2013.
-    abbreviation:
-    location:
-  date:
+    fullname: IEEE 19th International Symposium on High Performance Computer Architecture
+    abbreviation: HPCA
+    location: Shenzhen, China
+  date: February, 2013
   link:
-    url: 
+    url: http://ieeexplore.ieee.org/document/6522355/
     display: 
 
 - title: "Fundamental Latency Tradeoffs in Architecting DRAM Caches"
-  authors: Moinuddin K. Qureshi, and Gabriel H. Loh
+  authors: Moinuddin K. Qureshi and Gabriel H. Loh
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the International Symposium on Microarchitecture (MICRO-45), pp 235-246, Dec 2012.
-    abbreviation:
-    location:
-  date:
+    fullname: 45th Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Vancouver, BC, Canada
+  date: December, 2012
   link:
-    url: 
+    url: http://ieeexplore.ieee.org/document/6493623/
     display: 
 
 - title: "FLEXclusion: Balancing Capacity and On-Chip Traffic via Flexible Exclusion"
-  authors: Jaewoong Sim, Jaekyu Lee, Moinuddin K. Qureshi, and Hyesoon Kim
+  authors: Jaewoong Sim, Jaekyu Lee, Moinuddin K. Qureshi and Hyesoon Kim
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 39th Annual International Symposium on Computer Architecture (ISCA-39), pp 321-332, 2012.
-    abbreviation:
-    location:
-  date:
+    fullname: 39th Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Portland, OR, USA
+  date: July, 2012
   link:
-    url: 
+    url: https://dl.acm.org/citation.cfm?id=2337196 http://ieeexplore.ieee.org/document/6237028/
     display: 
 
-- title: "PreSET: Im- proving Read Write Performance of Phase Change Memories by Exploiting Asymmetry in Write Times"
+- title: "PreSET: Improving Read Write Performance of Phase Change Memories by Exploiting Asymmetry in Write Times"
   authors: Moinuddin K. Qureshi, Michele Franceschini, Luis Lastras and Ashish Jagmohan
   conf:
     preamble: Appears in Proceedings of the
-    fullname:  Proceedings of the 39th Annual International Symposium on Computer Architecture (ISCA- 39), pp 380-391, 2012.
-    abbreviation:
-    location:
-  date:
-  link:
-    url: 
-    display: 
+    fullname: 39th Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Portland, OR, USA
+  date: June, 2012
+  link: 
+    url: https://dl.acm.org/citation.cfm?id=2337203 
+    display:
 
 ## Before Georgia Tech.
 #- title: "Pay-As-You-Go: Low-Overhead Hard-Error Correction for Phase Change Memories"
