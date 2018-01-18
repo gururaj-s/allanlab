@@ -30,7 +30,16 @@ Jump to [Conferences](#conferences), [Journals](#journals). Also available at [G
 {% endfor %}
 
 ## Journals
+{% assign curr_year = 0 %}
+
+
 {% for publi in site.data.publist_journal %}
+
+  {% if publi.year != curr_year %}
+### {{ publi.year }}
+  {% assign curr_year = publi.year %}
+
+  {% endif %}
 
    <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
   <em>{{ publi.authors }} </em><br />
