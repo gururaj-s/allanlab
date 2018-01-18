@@ -11,12 +11,21 @@ permalink: /publications/
 
 Jump to [Conferences](#conferences),[Journals](#journals). Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
 
+
 ## Conferences
+{% assign curr_year = 0 %}
+
 {% for publi in site.data.publist_conf %}
 
-   <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
+  {% if publi.year != curr_year %}
+  #{{ publi.year }}
+  {% assign curr_year = publi.year %}
+
+  {% endif %}
+  
+  <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
   <em>{{ publi.authors }} </em><br />
-  {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> **({{ publi.conf.abbreviation }})** {% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
+  {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> {% if publi.conf.abbreviation %} **({{ publi.conf.abbreviation }})** {% endif %}{% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
   {% if publi.other %}<br /><i>{{ publi.other }}</i> {% endif %}
 {% endfor %}
 
