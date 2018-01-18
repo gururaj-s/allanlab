@@ -1,26 +1,6 @@
 - date: 19. October 2017
-  headline: "Gururaj's paper <a href='http://www.prism.gatech.edu/~gsaileshwar3/papers/hpca2018_synergy.pdf'> Synergy </a> is accepted at <a href='https://hpca2018.ece.ucsb.edu/'> HPCA-2018 </a>."
+  headline: "Gururaj's paper <a href='http://www.prism.gatech.edu/~gsaileshwar3/papers/hpca2018_synergy.pdf'> Synergy </a> is accepted at HPCA-2018"
 
-- date: 18. October 2017
-  headline: "Swamit presented his paper <a href='https://dl.acm.org/citation.cfm?id=3123940'> Taming the instruction bandwidth of quantum computers </a> at <a href='https://www.microarch.org/micro50/'> MICRO-2017 </a>."
-
-- date: 4. October 2017
-  headline: "Swamit won the Best Presentation Award for his talk at <a href='https://memsys.io/memsys-us-2017/'> Memsys'17 </a>"
-
-- date: 5. August 2017
-  headline: "We congratulate Dr. Jian - the newest PhD graduate from our group!"
-
-- date: 1. August 2017
-  headline: "Sanjay joins our small group as a new PhD student!"
-
-- date: 25. June 2017
-  headline: "Vinson won 2nd place at <a href='http://crc2.ece.tamu.edu/'>The 2nd Cache Replacement Championship</a> held at <a href='http://isca17.ece.utoronto.ca/doku.php'>ISCA-2018</a>."
-
-- date: 5. May 2017
-  headline: "We congratulate Dr. Prashant and Dr. Chia-Chen, the first PhD graduates from our group."
-
-- date: 1. April 2017
-  headline: "Mohammad joins our group as a Post-Doc!"
 
 #- date: 27. December 2017
 #  headline: "The smart tips are <a href='https://arxiv.org/pdf/1712.08620.pdf'> on arXiv!</a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft. Stay tuned. <img src='/images/newspic/SmartTip.png' class='img-responsive' style='max-width: 192px' />"

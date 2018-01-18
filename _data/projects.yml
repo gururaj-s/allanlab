@@ -1,0 +1,17 @@
+- name: 3D Memories
+  photo: 3dmem.jpg
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+- name: Resilient Memory Systems
+  photo: rel.GIF
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  
+
+- name: Architecting Quantum Computers
+  photo: quantum.jpg
+  description: Quantum computing promise exponential speedups for a class of important problems. However, this potential can be realized only by large-scale quantum systems that operate on a large number of qubits. Unfortunately, to build a scalable quantum computer several challenges must be overcome, including the design of conventional computing and memory systems that can efficiently interface with the quantum substrate while obeying the thermal and power constraints dictated by the quantum devices.  As computer architects, we try to address the system design challenges for the scalable quantum computers.
+
+- name: Agile Storage Systems
+  photo: storage.jpg
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+

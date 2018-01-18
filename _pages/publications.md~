@@ -9,25 +9,18 @@ permalink: /publications/
 
 # Publications
 
+{% comment %}
+## Full List
+{% endcomment %}
 Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
 
 {% for publi in site.data.publist %}
 
-   <a href='{{ publi.link.url  }}'>{{ publi.title }}</a> <br />
-  <em>{{ publi.authors }} </em><br />
-  {{ publi.conf.preamble }} {{ publi.conf.fullname }} **({{ publi.conf.abbreviation }})** {% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
-{% endfor %}
-
-{% comment %}
-## Full List
-
-{% for publi in site.data.publist %}
-
-  **{{ publi.title }}** <br />
+  {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-{% endcomment %}
+
 
 {% comment %}
 ## Highlights

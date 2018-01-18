@@ -1,0 +1,20 @@
+- name: <a href='https://prashantnair.bitbucket.io/#top'>Prashant Nair</a>
+  photo: prashant.jpg
+  info: Graduated May 2017
+  email: pnair6@gatech.edu
+  number_educ: 1
+  education1: First employment - Postdoc, IBM Research.
+  
+- name: <a href='https://www.linkedin.com/in/chiachen-chou-31695985/'>Chia-Chen Chou</a>
+  photo: chiachen.jpg
+  info: Graduated May 2017
+  email: cchou34@gatech.edu
+  number_educ: 1
+  education1: First employment - Google TPU Team.
+
+- name:  <a href='http://jianh.web.engr.illinois.edu/'>Jian Huang</a>
+  photo: jian.jpg
+  info: Graduated August 2017
+  email: jianh@illinois.edu
+  number_educ: 1
+  education1: First employment - Assistant Prof, UIUC.

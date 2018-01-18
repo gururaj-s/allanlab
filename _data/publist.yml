@@ -1,202 +1,592 @@
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
-  highlight: 1
-  news2: 
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+- title: "FlashGuard: Leveraging Intrinsic Flash Properties to Defend Against Encryption Ransomware"
+  authors: Jian Huang, Jun Xu, Xingyu Xing, Peng Liu and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the 
+    fullname: 2017 ACM SIGSAC Conference on Computer and Communications Security
+    abbreviation: CCS
+    location: Dallas, TX, USA
+  date: November, 2017 
+  link: 
+    url: https://dl.acm.org/citation.cfm?id=3134035
+    display:
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+- title: "Taming the Instruction Bandwidth of Quantum Computers via Hardware-Managed Error Correction"
+  authors: Swamit Tannu, Zachary Myers, Prashant Nair, Douglas Carmean and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    Fullname:  50th Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Cambridge, MA, USA
+  date: October, 2017
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2: 
+    url: https://dl.acm.org/citation.cfm?id=3123940
+    display: 
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+- title: "BATMAN: Techniques for Maximizing System Bandwidth of Memory Systems with Stacked-DRAM"
+  authors: Chia-Chen Chou, Aamer Jaleel and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname: International Symposium on Memory Systems
+    abbreviation: MEMSYS
+    location: Alexandria, VA, USA
+  date: October, 2017
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-  
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
+    url: https://dl.acm.org/citation.cfm?id=3132404
+    display: 
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+- title: "Cryogenic-DRAM based Memory System for Scalable Quantum Computers: A Feasibility Study"
+  authors: Swamit Tannu, Douglas Carmean and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname: International Symposium on Memory Systems
+    abbreviation: MEMSYS
+    location: Alexandria, VA, USA
+  date: October, 2017
+  link: 
+    url: https://dl.acm.org/citation.cfm?id=3132436 
+    display: 
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+- title: "DICE: Compressing DRAM Caches for Bandwidth and Capacity"
+  authors: Vinson Young, Prashant Nair and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname: 44th Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Toronto, ON, Canada
+  date: June, 2017
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
+    url: https://dl.acm.org/citation.cfm?id=3080243
+    display: 
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+- title: "FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs"
+  authors: Jian Huang, Anirudh Badam, Laura Caulfield, Suman Nath, Sudipta Sengupta, Bikash Sharma, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname: 15th USENIX Conference on File and Storage Technologies
+    abbreviation: FAST
+    location: Santa Clara, CA, USA
+  date: February, 2017
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
-  news2:
+    url: https://www.usenix.org/system/files/conference/fast17/fast17_huang.pdf
+    display: 
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+- title: "CANDY: Enabling Coherent DRAM Caches for Multi-Node System"
+  authors: Chia-Chen Chou, Aamer Jaleel and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname: 49th Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Taipei, Taiwan
+  Date: October, 2016
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013) 
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+    url: http://ieeexplore.ieee.org/document/7783738/ 
+    display: 
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+- title: "Energy Aware Persistence: Reducing the Energy Overheads of Persistent Memory"
+  authors: Sudarsun Kannan, Moinuddin K. Qureshi, Ada Gavrilovska, Karsten Schwa
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of 2016 Interna- tional Conference on Parallel Architecture and Compilation Techniques (PACT-25), pp 165-177, Septem- ber, 2016.
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013) 
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+    url: 
+    display: 
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1    
+- title: "An Evolutionary Study of Linux Memory Management for Fun and Profit"
+  authors: Jian Huang, Moinuddin K. Qureshi, Karsten Schwa
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the USENIX Annual Technical Conference (USENIX ATC), pp 465-478, June, 2016.
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: 
+    display: 
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+- title: "XED: Exposing On-Die Error Detection Information for Strong Memory Reliability"
+  authors: Prashant Nair, Vilas Sridharan, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 43rd Annual International Sympo- sium on Computer Architecture (ISCA-43), pp 341-353, June, 2016.
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+    url: 
+    display: 
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+- title: "Low-Cost Inter-Linked Subarrays (LISA): Enabling Fast Inter-Subarray Data Movement in DRAM"
+  authors: Kevin K. Chang, Prashant Nair, Donghyuk Lee, Saugata Ghose, Moinuddin K. Qureshi, Onur Mutlu
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 22nd Annual International Symposium on High-Performance Computer Architecture (HPCA-22), pp 568-580, Mar 2016.
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2: 
+    url: 
+    display: 
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+- title: "AVATAR: A Variable-Retention-Time (VRT) Aware Refresh for DRAM Systems"
+  authors: Moinuddin K. Qureshi, Dae-Hyun Kim, Sameera Khan, Prashant Nair, Onur Mutlu
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the Interna- tional Conference on Dependable Systems and Networks (DSN), pp 427-437, 2015.
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+    url: 
+    display: 
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
+- title: "Reducing Refresh Power in Mobile Devices with Morphable ECC"
+  authors: Chia-Chen Chou, Prashant Nair, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the International Conference on Dependable Systems and Networks (DSN), pp 355-366, 2015.
+    abbreviation:
+    location:
+  date:
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
+    url: 
+    display: 
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+- title: "BEAR: Techniques for Mitigating Band- width Bloat in Gigascale DRAM Caches"
+  authors: Chia-Chen Chou, Aamer Jaleel, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 42nd Annual International Symposium on Computer Architecture (ISCA-42), pp 198-210, 2015.
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
+    url: 
+    display: 
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+- title: "Unified Address Trans- lation for Memory-Mapped SSDs with FlashMap"
+  authors: Jian Huang, Anirudh Badam, Moinuddin K. Qureshi, Karsten Schwan
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 42nd Annual International Symposium on Computer Architecture (ISCA-42), pp 580-591, 2015. (Honorable Mention in IEEE MICRO Top Picks 2016)
+    abbreviation:
+    location:
+  date:
   link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+    url: 
+    display: 
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+- title: "DEUCE: Write-Efficient Encryption for Non-Volatile Memories"
+  authors: Vinson Young, Prashant Nair, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-20), pp 33-44, Mar 2015. (Honorable Mention in IEEE MICRO Top Picks 2016)
+    abbreviation:
+    location:
+  date:
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
+    url: 
+    display: 
+
+- title: "Reducing Read La- tency of Phase Change Memory via Early Read and Turbo Read"
+  authors: Prashant Nair, Chia-Chen Chou, Bipin Rajendran, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 21st Annual International Symposium on High-Performance Computer Architecture (HPCA-21), pp 309-319, Feb 2015.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "Balancing Context Switch Penalty and Response Time with Elastic Time Slicing"
+  authors: Nagakishore Jammula, Moinuddin Qureshi, Ada Gavrilovska, and Jongman Kim
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the IEEE In- ternational Conference on High Performance Computing (HiPC), pp 1-10, Dec 2014. Best Paper Award
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "CAMEO:A Two-Level Memory Organi- zation with Capacity of Main Memory and Flexibility of Hardware-Managed Cache"
+  authors: Chia-Chen Chou, Aamer Jaleel, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the International Symposium on Microarchitecture (MICRO-47), pp 1-12, Dec 2014.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "Citadel: Efficiently Protecting Stacked Memory From Large Granularity Failures"
+  authors: Prashant Nair, David Roberts, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the International Symposium on Microar- chitecture (MICRO-47), pp 51-62, Dec 2014.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "Operating SECDED-Based Caches at Ultra-Low Voltage with FLAIR"
+  authors: Moinuddin K. Qureshi, and Zeshan Chishti
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Appears in the Proceedings of the International Conference on Dependable Systems and Networks (DSN), pp 1-11, 2013.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "ArchShield: Architectural Support for Assisting DRAM Scaling by Tolerating High Error Rates"
+  authors: Prashant Nair, Daehyun Kim, Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Appears in the Proceedings of the 40th Annual International Symposium on Computer Architecture (ISCA-40), pp 72-83, 2013.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "A Case for Refresh Pausing in DRAM Memory Systems"
+  authors: Prashant Nair, Chia-Chen Chou, and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 19th Annual International Symposium on High- Performance Computer Architecture (HPCA-19), pp 627-638, 2013.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "Fundamental Latency Tradeoffs in Architecting DRAM Caches"
+  authors: Moinuddin K. Qureshi, and Gabriel H. Loh
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the International Symposium on Microarchitecture (MICRO-45), pp 235-246, Dec 2012.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "FLEXclusion: Balancing Capacity and On-Chip Traffic via Flexible Exclusion"
+  authors: Jaewoong Sim, Jaekyu Lee, Moinuddin K. Qureshi, and Hyesoon Kim
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 39th Annual International Symposium on Computer Architecture (ISCA-39), pp 321-332, 2012.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+- title: "PreSET: Im- proving Read Write Performance of Phase Change Memories by Exploiting Asymmetry in Write Times"
+  authors: Moinuddin K. Qureshi, Michele Franceschini, Luis Lastras and Ashish Jagmohan
+  conf:
+    preamble: Appears in Proceedings of the
+    fullname:  Proceedings of the 39th Annual International Symposium on Computer Architecture (ISCA- 39), pp 380-391, 2012.
+    abbreviation:
+    location:
+  date:
+  link:
+    url: 
+    display: 
+
+## Before Georgia Tech.
+#- title: "Pay-As-You-Go: Low-Overhead Hard-Error Correction for Phase Change Memories"
+#  authors: Moinuddin K. Qureshi
+#  conf:  Proceedings of the International Symposium on Microarchitecture (MICRO-44), pp 318- 328, Dec 2011.
+#
+#- title: "Practical and Se- cure PCM Systems via Online Attack Detection"
+#  authors: Moinuddin K. Qureshi, Andre Seznec, Luis Lastras, and Michele Franceschini
+#  conf:  Proceedings of the 17th Annual International Symposium on High-Performance Computer Architecture (HPCA-17), pp 478-489, 2011.
+#
+#- title: "Feedback Driven Pipeline Parallelism"
+#  authors: M. Aater Suleman, Moinuddin K. Qureshi, Khubaib and Yale N. Patt
+#  conf:  Proceedings of the Parallel Architecture and Compilation Techniques (PACT-19), pp 147- 156, 2010.
+#
+#- title: "Morphable Memory System: A Robust Architecture for Exploiting Multi-Level Phase Change Memories"
+#  authors: Moinuddin K. Qureshi, Michele Franceschini, Luis Lastras and John Karidis
+#  conf:  Proceedings of the 37th Annual International Symposium on Computer Architecture (ISCA-37), pp 153-162, 2010.
+#
+#- title: "Improving Read Performance of Phase Change Memories via Write Cancellation and Write Pausing"
+#  authors: Moinuddin K. Qureshi, Michele Franceschini and Luis Lastras
+#  conf:  Proceedings of the 16th Annual International Symposium on High-Performance Computer Architecture (HPCA-16), pp 1-11, 2010.
+#
+#- title: "A Tagless Coher- ence Directory"
+#  authors: Jason Zebchuk, Viji Srinivasan, Moinuddin K. Qureshi and Andreas Moshovos
+#  conf:  Proceedings of the International Symposium on Microarchitecture (MICRO-42), pp 423-434, 2009.
+#
+#- title: "Enhancing Lifetime and Security of Phase Change Memories via Start-Gap Wear Lev- eling"
+#  authors: Moinuddin K. Qureshi, John Karidis, Michele Franceschini, Viji Srinivasan, Luis Lastras and Bu- lent Abali
+#  conf:  Proceedings of the International Symposium on Microarchitecture (MICRO-42), pp 14-23, 2009.
+#
+#- title: "Scalable High-Performance Main Mem- ory System using Phase Change Technology"
+#  authors: Moinuddin K. Qureshi, Viji Srinivasan and Jude Rivers
+#  conf:  Proceedings of the 36th Annual International Sympo- sium on Computer Architecture (ISCA-36), pp 24-33, 2009.
+#
+#- title: "Accelerating Critical Section Execution with Asymmetric Multi-Core Architectures"
+#  authors: M. Aater Suleman, Onur Mutlu, Moinuddin K. Qureshi, and Yale N. Pat
+#  conf:  Proceedings of the Fourteenth In- ternational Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS XIV), pp 253-264, Mar 2009.
+#
+#- title: "Adaptive Spill-Receive for Robust High-Performance Caching in CMPs"
+#  authors: Moinuddin K. Qureshi
+#  conf:  Proceedings of the 15th Annual International Symposium on High- Performance Computer Architec- ture (HPCA-15), pp 45-54, 2009.
+#
+#- title: "Adaptive Insertion Policies for Managing Shared Caches"
+#  authors: Aamer Jaleel, William Hasenplough, Moinuddin K. Qureshi, Simon C. Steely Jr., Julian Sebot and Joel Emer
+#  conf:  Proceedings of the Parallel Architecture and Compilation Techniques (PACT-17), pp 208-219, Oct 2008.
+#
+#- title: "Feedback Driven Threading: Power- Efficient and High-Performance Execution of Multi-threaded Workloads on CMPs"
+#  authors: M. Aater Suleman, Moinuddin K. Qureshi, and Yale N. Patt
+#  conf:  Proceedings of the Thirteenth International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS XIII), pp 277-286, Mar 2008.
+#
+#- title: "Adaptive Insertion Policies for High Performance Caching"
+#  authors: Moinuddin K. Qureshi, Aamer Jaleel, Yale N. Patt, Simon C. Steely and Joel Emer
+#  conf:  Proceedings of the 34th International Symposium on Computer Architecture (ISCA-34), pp 381-391, 2007.
+#
+#- title: "Line Distillation: Increasing Cache Capacity by Filtering Unused Words in Cache Lines"
+#  authors: Moinuddin K. Qureshi, M. Aater Suleman and Yale N. Patt
+#  conf:  Proceedings of the 13th Annual Interna- tional Symposium on High-Performance Computer Architecture (HPCA-13), pp 250-259, 2007.
+#
+#- title: "Utility Based Cache Partitioning: A Low Overhead High- Performance Runtime Mechanism to Partition Shared Caches"
+#  authors: Moinuddin K. Qureshi and Yale N. Patt
+#  conf:  Proceedings of the 39th Annual International Symposium on Microarchitecture (MICRO- 39), pp 423-432, 2006.
+#
+#- title: "A Case for MLP-Aware Cache Replacement"
+#  authors: Moinuddin K. Qureshi, Daniel N. Lynch, Onur Mutlu and Yale N. Patt
+#  conf:  Proceedings of the 29th Annual International Symposium on Computer Archi- tecture (ISCA-33), pp 167-178, 2006.
+#
+#- title: "Microarchitecture-Based Introspection: A Technique for Transient-Fault Tolerance in Microprocessors"
+#  authors: Moinuddin K. Qureshi, Onur Mutlu and Yale N. Pat
+#  conf:  Proceedings of the International Con- ference on Dependable Systems and Networks (DSN), pp 434-443, 2005.
+#
+#- title: "The V-Way Cache: Demand Based Associativity via Global Replacement"
+#  authors: Moinuddin K. Qureshi, David Thompson and Yale N. Patt
+#  conf:  Proceedings of the 32nd Annual International Symposium on Computer Architecture (ISCA-32), pp 544-555, 2005.
+#
+
+
+################## TEMPLATE
+
+#- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+#  image: SmartPub.png
+#  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+#  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+#  link:
+#    url: https://arxiv.org/abs/1712.08620
+#    display:  arxiv:1712.08620 (2017)
+#  highlight: 1
+#  news2: 
+#
+#- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+#  image: dummy.png
+#  description: ""
+#  authors: MA Sulangi, MP Allan, J Zaanen
+#  link:
+#    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
+#    display:  PRB 96, 134507 (2017)
+#    highlight: 0
+#  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+#
+#- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
+#  image: dummy.png
+#  description: ""
+#  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+#  link:
+#    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
+#    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+#  highlight: 0
+#  news2: 
+#
+#- title: Creating better superconductors by periodic nanopatterning
+#  image: SCAUweb.jpg
+#  description:
+#    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
+#  authors:
+#    MP Allan, MH Fischer, O Ostojic, A Andringa
+#  link:
+#    url: https://scipost.org/SciPostPhys.3.2.010/pdf
+#    display: SciPost Phys. 3, 010 (2017)
+#  highlight: 1
+#  
+#- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
+#  image: TIBB.png
+#  description:
+#    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
+#  authors:
+#    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+#  link:
+#    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
+#    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+#  highlight: 1
+#
+#- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
+#  image: Mott_phase_sep.jpg
+#  description:
+#    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
+#  authors:
+#    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+#  link:
+#    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
+#    display: Nature Physics 13, 21 (2017)
+#  highlight: 1
+#  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+#
+#- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
+#  image: Pub_FP.png
+#  description:
+#    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
+#  authors:
+#    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+#  link:
+#    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
+#    display: Nature Physics 11, 177 (2015)
+#  highlight: 1
+#  news1:
+#  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
+#
+#- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+#  image: dummy.png
+#  description: ""
+#  authors:
+#    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+#  link:
+#    url: http://www.pnas.org/content/111/32/11663
+#    display: PNAS 111, 11663 (2014)
+#  highlight: 0
+#  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
+#  news2:
+#
+#- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
+#  image: Pub_CeCoIn5.png
+#  description:
+#    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
+#  authors:
+#    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+#  link:
+#    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
+#    display: Nature Physics 9, 468 (2013) 
+#  highlight: 1
+#  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
+#  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+#
+#- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
+#  image: Pub_327.png
+#  description:
+#    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+#  authors:
+#    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+#  link:
+#    url: http://iopscience.iop.org/1367-2630/15/6/063029
+#    display: New Journal of Physics 15, 063029 (2013) 
+#  highlight: 1
+#  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+#
+#- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
+#  image: Pub_nemat2b.png
+#  description:
+#    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+#  authors:
+#    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
+#  highlight: 1    
+#  link:
+#    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
+#    display: Nature Physics 9, 220 (2013)
+#  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+#
+#- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
+#  image: Pub_LiFeAs.png
+#  description:
+#    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
+#  authors:
+#    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+#  link:
+#    url: http://www.sciencemag.org/content/336/6081/563
+#    display: Science 336, 563 (2012)
+#  highlight: 1
+#  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+#
+#- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+#  image: dummy.png
+#  description: ""
+#  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+#  link:
+#    url: http://www.pnas.org/content/108/45/18233
+#    display:  PNAS 108, 18233 (2011)
+#  highlight: 0
+#  news2: 
+#
+#- title: Nematic electronic structure in the "parent" state of the iron-based superconductor Ca(Fe1−xCox)2As2
+#  image: Pub_nemat1.png
+#  description:
+#    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
+#  authors:
+#    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+#  link:
+#    url: http://www.sciencemag.org/content/327/5962/181
+#    display: Science 327, 181 (2010) 
+#  highlight: 1
+#  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
+#  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+#
+#- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
+#  image: Pub_hBN.png
+#  description:
+#    QPI in Sr327.
+#  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
+#  link:
+#    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
+#    display: Nature Physics 5, 800 (2009)
+#  highlight: 0
+#
+#- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
+#  image: Pub_hBN.png
+#  description:
+#    We determine the Fermi surface of Sr327.
+#  authors:
+#    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+#  link:
+#    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
+#    display: Phys. Rev. Lett. 101, 026407 (2008)
+#  highlight: 0
+#
+#- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
+#  image: Pub_hBN.png
+#  description:
+#    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+#  authors:
+#    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+#  link:
+#    url: http://www.nanoscalereslett.com/content/2/2/94
+#    display: Nanoscale Research Letters 2, 94 (2007)
+#  highlight: 1
+#
+#- title: Photoelectron Diffraction for a Look inside Nanostructures
+#  image: dummy.png
+#  description: ""
+#  authors:
+#    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+#  link:
+#    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
+#    display: CHIMIA 11, 759 (2006)
+#  highlight: 0
