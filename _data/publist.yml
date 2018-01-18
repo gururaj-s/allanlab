@@ -15,7 +15,7 @@
   authors: Swamit Tannu, Zachary Myers, Prashant Nair, Douglas Carmean and Moinuddin K. Qureshi
   conf:
     preamble: Appears in Proceedings of the
-    Fullname: 50th Annual IEEE/ACM International Symposium on Microarchitecture
+    fullname: 50th Annual IEEE/ACM International Symposium on Microarchitecture
     abbreviation: MICRO
     location: Cambridge, MA, USA
   date: October, 2017
