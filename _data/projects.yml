@@ -4,12 +4,12 @@
 
 - name: Resilient Memory Systems
   photo: rel.GIF
-  description: Datacenters today require a strong level of security and availability. Resilient memories are the need of the hour, which are protected from both adversarial attacks and naturally occurring errors. Unfortunately, providing such guarantees involves an inherent cost in terms of performance and power, which often make these systems impractical. Our goal as computer architects, is to design scalable resilient memory systems that provide strong reliability and security, without any impact on performance or energy.
+  description: Datacenters today require a strong level of security and availability. Such systems need resilient memories, which are protected from both adversarial attacks and naturally occurring errors. Unfortunately, providing such guarantees involves an inherent cost in terms of performance and power, which often make these systems impractical. Our goal as computer architects, is to design scalable resilient memory systems that provide strong reliability and security, with minimal impact on performance or energy.
  
 
 - name: Architecting Quantum Computers
   photo: quantum.jpg
-  description: Quantum computing promise exponential speedups for a class of important problems. However, this potential can be realized only by large-scale quantum systems that operate on a large number of qubits. Unfortunately, to build a scalable quantum computer several challenges must be overcome, including the design of conventional computing and memory systems that can efficiently interface with the quantum substrate while obeying the thermal and power constraints dictated by the quantum devices.  As computer architects, we try to address the system design challenges for the scalable quantum computers.
+  description: Quantum computing promises exponential speedups for a class of important problems. However, this potential can only be realized using large-scale quantum systems with a large number of qubits. Unfortunately, building a scalable quantum computer has several challenges that must be overcome, including the design of conventional computing and memory systems that can efficiently interface with the quantum substrate while obeying the thermal and power constraints dictated by the quantum devices.  As computer architects, we try to address the system design challenges for scalable quantum computers.
 
 - name: Agile Storage Systems
   photo: storage.jpg
