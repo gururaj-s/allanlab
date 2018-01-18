@@ -36,7 +36,7 @@ Jump to [Conferences](#conferences), [Journals](#journals). Also available at [G
 {% for publi in site.data.publist_journal %}
 
   {% if publi.year != curr_year %}
-### {{ publi.year }}
+#### {{ publi.year }}
   {% assign curr_year = publi.year %}
 
   {% endif %}
