@@ -23,7 +23,7 @@ Jump to [Conferences](#conferences), [Journals](#journals). Also available at [G
 
   {% endif %}
   
-  <a href='{{ site.url }}{{ site.baseurl }}/papers/{{ publi.link.pdf }}'>{{ publi.title }}</a> {% if publi.link.slides %}\[<a href='{{ site.url }}{{ site.baseurl }}/slides/{{ publi.link.slides }}'></a>\]{% endif %} <br />
+  <a href='{{ site.url }}{{ site.baseurl }}/papers/{{ publi.link.pdf }}'>{{ publi.title }}</a> {% if publi.link.slides %}\[<a href='{{ site.url }}{{ site.baseurl }}/slides/{{ publi.link.slides }}'>slides</a>\]{% endif %} <br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> {% if publi.conf.abbreviation %} **({{ publi.conf.abbreviation }})** {% endif %}{% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.
   {% if publi.other %}<br /><i>{{ publi.other }}</i> {% endif %}
