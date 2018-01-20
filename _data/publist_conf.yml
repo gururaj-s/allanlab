@@ -94,6 +94,7 @@
   year: 2017
   link:
     pdf: FAST_2017_1.pdf
+    slides: FAST_2017_1_slides.pdf
     url: https://www.usenix.org/system/files/conference/fast17/fast17_huang.pdf
     display: 
 
@@ -136,6 +137,7 @@
   year: 2016
   link:
     pdf: USENIX_ATC_2016_1.pdf
+    slides: USENIX_ATC_2016_1_slides.pdf
     url: https://www.usenix.org/system/files/conference/atc16/atc16_paper-huang.pdf
     display:
 
@@ -180,6 +182,7 @@
   year: 2015
   link:
     pdf: DSN_2015_1.pdf
+    slides: DSN_2015_1_slides.pptx
     url: http://ieeexplore.ieee.org/document/7266870/
     display: 
 
@@ -194,6 +197,8 @@
   year: 2015
   link:
     pdf: DSN_2015_2.pdf
+    slides: DSN_2015_2_slides.pdf
+    slides: DSN_2015_2_slides.ppt
     url: http://ieeexplore.ieee.org/document/7266864/
     display:
 
@@ -208,6 +213,7 @@
   year: 2015
   link:
     pdf: ISCA_2015_1.pdf
+    slides: ISCA_2015_1_slides.ppt
     url: http://ieeexplore.ieee.org/document/7284066/
     display: 
 
@@ -222,6 +228,7 @@
   year: 2015
   link:
     pdf: ISCA_2015_2.pdf
+    slides: ISCA_2015_2_slides.pdf
     url: https://dl.acm.org/citation.cfm?id=2750420
     display:
   other: (Honorable Mention in IEEE MICRO Top Picks 2016)
@@ -237,6 +244,7 @@
   year: 2015
   link:
     pdf: ASPLOS_2015_1.pdf
+    slides: ASPLOS_2015_1_slides.pptx
     url: https://dl.acm.org/citation.cfm?id=2694387
     display:
   other: (Honorable Mention in IEEE MICRO Top Picks 2016)
@@ -252,6 +260,7 @@
   year: 2015
   link:
     pdf: HPCA_2015_1.pdf
+    slides: HPCA_2015_1_slides.pptx
     url: http://ieeexplore.ieee.org/document/7056042/
     display: 
 
@@ -281,6 +290,7 @@
   year: 2014
   link:
     pdf: MICRO_2014_1.pdf 
+    slides: MICRO_2014_1_slides.ppt
     url: https://dl.acm.org/citation.cfm?id=2742157 
     display: 
 
@@ -295,6 +305,7 @@
   year: 2014
   link:
     pdf: MICRO_2014_2.pdf
+    slides: MICRO_2014_2_slides.pdf
     url: https://dl.acm.org/citation.cfm?id=2742161
     display: 
 
@@ -323,6 +334,7 @@
   year: 2013
   link:
     pdf: ISCA_2013_1.pdf
+    slides: ISCA_2013_1_slides.pptx
     url: https://dl.acm.org/citation.cfm?id=2485929
     display:
 
@@ -337,6 +349,7 @@
   year: 2013
   link:
     pdf: HPCA_2013_1.pdf
+    slides: HPCA_2013_1_slides.pptx
     url: http://ieeexplore.ieee.org/document/6522355/
     display: 
 
@@ -351,6 +364,7 @@
   year: 2012
   link:
     pdf: MICRO_2012_1.pdf
+    slides: MICRO_2012_1_slides.pptx
     url: http://ieeexplore.ieee.org/document/6493623/
     display: 
 
@@ -365,6 +379,7 @@
   year: 2012
   link:
     pdf: ISCA_2012_1.pdf
+    slides: ISCA_2012_1_slides.pptx
     url: http://ieeexplore.ieee.org/document/6237028/
     display: 
 
@@ -379,6 +394,7 @@
   year: 2012
   link:
     pdf: ISCA_2012_2.pdf 
+    slides: ISCA_2012_2_slides.pptx
     url: https://dl.acm.org/citation.cfm?id=2337203 
     display:
 
