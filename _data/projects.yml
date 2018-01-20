@@ -1,17 +1,21 @@
 - name: 3D Memories
   photo: 3dmem.jpg
+  lead: Vinson Young
   description: 3D die-stacked memory offers the promise of increased memory bandwidth for today's ever-scaling workloads. However, capacity and cost constraints often prevent building memory systems exclusively with stacked memory. As such, memory systems of future computers are likely to have a heterogeneous organization consisting of high-bandwidth 3D die-stacked memory and high-capacity memories. For this project, we explore different mechanisms to expose the bandwidth-benefits of stacked memory, while maintaining the capacity and cost-benefits of standard memories. 
 
 - name: Resilient Memory Systems
   photo: rel.GIF
+  lead: Gururaj Saileshwar
   description: Datacenters today require a strong level of security and availability. Such systems need resilient memories, which are protected from both adversarial attacks and naturally occurring errors. Unfortunately, providing such guarantees involves an inherent cost in terms of performance and power, which often make these systems impractical. Our goal as computer architects, is to design scalable resilient memory systems that provide strong reliability and security, with minimal impact on performance or energy.
  
 
 - name: Architecting Quantum Computers
   photo: quantum.jpg
+  lead: Swamit Tannu
   description: Quantum computing promises exponential speedups for a class of important problems. However, this potential can only be realized using large-scale quantum systems with a large number of qubits. Unfortunately, building a scalable quantum computer has several challenges that must be overcome, including the design of conventional computing and memory systems that can efficiently interface with the quantum substrate while obeying the thermal and power constraints dictated by the quantum devices.  As computer architects, we try to address the system design challenges for scalable quantum computers.
 
 - name: Agile Storage Systems
   photo: storage.jpg
+  lead: Mohammad Arjomand
   description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
