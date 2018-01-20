@@ -8,6 +8,7 @@
   date: January 2016
   year: 2016
   link:
+    pdf: TACO_2016_1.pdf
     url: https://dl.acm.org/citation.cfm?id=2831234
     display:
 
@@ -21,6 +22,7 @@
   date: January 2016
   year: 2016
   link:
+    pdf: TACO_2016_2.pdf
     url: https://dl.acm.org/citation.cfm?id=2840807
     display:
 
@@ -35,6 +37,7 @@
   date: August 2015
   year: 2015
   link:
+    pdf: CAL_2015_1.pdf
     url: http://ieeexplore.ieee.org/document/7222422/
     display:
 
@@ -43,11 +46,12 @@
   conf:
     preamble: Appears in the
     fullname: VMWare Technical Journal
-    abbreviation: 
+    abbreviation: VMTJ
     location: Volume 4, pp 23-34
   date: February 2015
   year: 2015
   link:
+    pdf: VMTJ_2015_1.pdf
     url: http://download3.vmware.com/software/vmw-tools/papers/VMTJ_issue_6.pdf
     display:
 
@@ -60,7 +64,8 @@
     location: Endowment, Volume 8, Issue 4, pp 389-400 
   date: December 2014
   year: 2014
-  link: 
+  link:
+    pdf: VLDB_2014_1.pdf 
     url: http://www.vldb.org/pvldb/vol8/p389-huang.pdf
     display:
 
@@ -75,6 +80,7 @@
   date: June 2014
   year: 2014
   link:
+    pdf: CAL_2014_1.pdf
     url: http://ieeexplore.ieee.org/abstract/document/6840960/
     display:
 
@@ -89,6 +95,7 @@
   date: February 2014
   year: 2014
   link:
+    pdf: TACO_2014_1.pdf
     url: https://dl.acm.org/citation.cfm?id=2579669
     display:
 
@@ -103,5 +110,6 @@
   date: June 2013
   year: 2013
   link:
+    pdf: ITJ_2013_1.pdf
     url: https://www.intel.com/content/dam/www/public/us/en/documents/research/2013-vol17-iss-1-intel-technology-journal.pdf
     display:

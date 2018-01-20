@@ -7,7 +7,8 @@
     location: Vienna, Austria
   date: February, 2018
   year: 2018
-  link: 
+  link:
+    pdf: HPCA_2018_1.pdf
     url: http://www.prism.gatech.edu/~gsaileshwar3/papers/hpca2018_synergy.pdf
     display:
 
@@ -21,7 +22,8 @@
     location: Dallas, TX, USA
   date: November, 2017
   year: 2017
-  link: 
+  link:
+    pdf: CCS_2017_1.pdf 
     url: https://dl.acm.org/citation.cfm?id=3134035
     display:
 
@@ -35,6 +37,7 @@
   date: October, 2017
   year: 2017
   link:
+    pdf: MICRO_2017_1.pdf
     url: https://dl.acm.org/citation.cfm?id=3123940
     display: 
 
@@ -48,6 +51,7 @@
   date: October, 2017
   year: 2017
   link:
+    pdf: MEMSYS_2017_1.pdf
     url: https://dl.acm.org/citation.cfm?id=3132404
     display: 
 
@@ -60,7 +64,8 @@
     location: Alexandria, VA, USA
   date: October, 2017
   year: 2017
-  link: 
+  link:
+    pdf: MEMSYS_2017_2.pdf 
     url: https://dl.acm.org/citation.cfm?id=3132436 
     display: 
 
@@ -74,6 +79,7 @@
   date: June, 2017
   year: 2017
   link:
+    pdf: ISCA_2017_1.pdf
     url: https://dl.acm.org/citation.cfm?id=3080243
     display: 
 
@@ -87,6 +93,7 @@
   date: February, 2017
   year: 2017
   link:
+    pdf: FAST_2017_1.pdf
     url: https://www.usenix.org/system/files/conference/fast17/fast17_huang.pdf
     display: 
 
@@ -100,6 +107,7 @@
   Date: October, 2016
   year: 2016
   link:
+    pdf: MICRO_2016_1.pdf
     url: http://ieeexplore.ieee.org/document/7783738/ 
     display: 
 
@@ -113,6 +121,7 @@
   date: September, 2016
   year: 2016
   link:
+    pdf: PACT_2016_1.pdf
     url: https://dl.acm.org/citation.cfm?doid=2967938.2967953
     display: 
 
@@ -126,8 +135,9 @@
   date: June, 2016
   year: 2016
   link:
+    pdf: USENIX_ATC_2016_1.pdf
     url: https://www.usenix.org/system/files/conference/atc16/atc16_paper-huang.pdf
-    display: 
+    display:
 
 - title: "XED: Exposing On-Die Error Detection Information for Strong Memory Reliability"
   authors: Prashant Nair, Vilas Sridharan and Moinuddin K. Qureshi
@@ -139,6 +149,8 @@
   date: June, 2016
   year: 2016
   link:
+    pdf: ISCA_2016_1.pdf
+    slides: ISCA_2016_1_slides.pdf
     url: https://dl.acm.org/citation.cfm?id=3001174
     display: 
 
@@ -152,6 +164,7 @@
   date: March, 2016
   year: 2016
   link:
+    pdf: HPCA_2016_1.pdf
     url: http://ieeexplore.ieee.org/document/7446095/
     display: 
 
@@ -165,6 +178,7 @@
   date: June, 2015
   year: 2015
   link:
+    pdf: DSN_2015_1.pdf
     url: http://ieeexplore.ieee.org/document/7266870/
     display: 
 
@@ -178,6 +192,7 @@
   date: June, 2015
   year: 2015
   link:
+    pdf: DSN_2015_2.pdf
     url: http://ieeexplore.ieee.org/document/7266864/
     display:
 
@@ -191,6 +206,7 @@
   date: June, 2015
   year: 2015
   link:
+    pdf: ISCA_2015_1.pdf
     url: http://ieeexplore.ieee.org/document/7284066/
     display: 
 
@@ -204,6 +220,7 @@
   date: June, 2015
   year: 2015
   link:
+    pdf: ISCA_2015_2.pdf
     url: https://dl.acm.org/citation.cfm?id=2750420
     display:
   other: (Honorable Mention in IEEE MICRO Top Picks 2016)
@@ -218,6 +235,7 @@
   date: March, 2015
   year: 2015
   link:
+    pdf: ASPLOS_2015_1.pdf
     url: https://dl.acm.org/citation.cfm?id=2694387
     display:
   other: (Honorable Mention in IEEE MICRO Top Picks 2016)
@@ -232,6 +250,7 @@
   date: February, 2015
   year: 2015
   link:
+    pdf: HPCA_2015_1.pdf
     url: http://ieeexplore.ieee.org/document/7056042/
     display: 
 
@@ -245,6 +264,7 @@
   date: December, 2014
   year: 2014
   link:
+    pdf: HiPC_2014_1.pdf
     url: http://ieeexplore.ieee.org/document/7056042/
     display:
   other: (Best Paper Award)
@@ -258,7 +278,8 @@
     location: Cambridge, United Kingdom
   date: December, 2014
   year: 2014
-  link: 
+  link:
+    pdf: MICRO_2014_1.pdf 
     url: https://dl.acm.org/citation.cfm?id=2742157 
     display: 
 
@@ -272,6 +293,7 @@
   date: December, 2014
   year: 2014
   link:
+    pdf: MICRO_2014_2.pdf
     url: https://dl.acm.org/citation.cfm?id=2742161
     display: 
 
@@ -285,6 +307,7 @@
   date: June, 2013
   year: 2013
   link:
+    pdf: DSN_2013_1.pdf
     url: http://ieeexplore.ieee.org/document/6575314/
     display:
 
@@ -298,6 +321,7 @@
   date: June, 2013
   year: 2013
   link:
+    pdf: ISCA_2013_1.pdf
     url: https://dl.acm.org/citation.cfm?id=2485929
     display:
 
@@ -311,6 +335,7 @@
   date: February, 2013
   year: 2013
   link:
+    pdf: HPCA_2013_1.pdf
     url: http://ieeexplore.ieee.org/document/6522355/
     display: 
 
@@ -324,6 +349,7 @@
   date: December, 2012
   year: 2012
   link:
+    pdf: MICRO_2012_1.pdf
     url: http://ieeexplore.ieee.org/document/6493623/
     display: 
 
@@ -337,7 +363,8 @@
   date: July, 2012
   year: 2012
   link:
-    url: https://dl.acm.org/citation.cfm?id=2337196 http://ieeexplore.ieee.org/document/6237028/
+    pdf: ISCA_2012_1.pdf
+    url: http://ieeexplore.ieee.org/document/6237028/
     display: 
 
 - title: "PreSET: Improving Read Write Performance of Phase Change Memories by Exploiting Asymmetry in Write Times"
@@ -349,7 +376,8 @@
     location: Portland, OR, USA
   date: June, 2012
   year: 2012
-  link: 
+  link:
+    pdf: ISCA_2012_2.pdf 
     url: https://dl.acm.org/citation.cfm?id=2337203 
     display:
 
