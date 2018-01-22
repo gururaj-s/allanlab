@@ -23,7 +23,8 @@
   date: November, 2017
   year: 2017
   link:
-    pdf: CCS_2017_1.pdf 
+    pdf: CCS_2017_1.pdf
+    slides: CCS_2017_1_slides.pdf    
     url: https://dl.acm.org/citation.cfm?id=3134035
     display:
 
@@ -80,6 +81,7 @@
   year: 2017
   link:
     pdf: ISCA_2017_1.pdf
+    slides: ISCA_2017_1_slides.pptx
     url: https://dl.acm.org/citation.cfm?id=3080243
     display: 
 
