@@ -39,6 +39,7 @@
   year: 2017
   link:
     pdf: MICRO_2017_1.pdf
+    slides: MICRO_2017_1_slides.pptx
     url: https://dl.acm.org/citation.cfm?id=3123940
     display: 
 
@@ -66,7 +67,8 @@
   date: October, 2017
   year: 2017
   link:
-    pdf: MEMSYS_2017_2.pdf 
+    pdf: MEMSYS_2017_2.pdf
+    slides: MEMSYS_2017_2_slides.pptx
     url: https://dl.acm.org/citation.cfm?id=3132436 
     display: 
 
