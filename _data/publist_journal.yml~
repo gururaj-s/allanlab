@@ -1,0 +1,107 @@
+- title: "FaultSim: A Fast, Configurable Memory-Reliability Simulator for Conventional and 3D-Stacked Systems"
+  authors: Prashant Nair, David Roberts and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in the
+    fullname: ACM Transactions on Architecture and Code Optimizations
+    abbreviation: TACO
+    location: Volume 12, Issue 4
+  date: January 2016
+  year: 2016
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2831234
+    display:
+
+- title: "Citadel: Efficiently Protecting Stacked Memory From TSV and Large Granularity Failures"
+  authors: Prashant Nair, David Roberts and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in the
+    fullname: ACM Transactions on Architecture and Code Optimizations
+    abbreviation: TACO
+    location: Volume 12, Issue 4
+  date: January 2016
+  year: 2016
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2840807
+    display:
+
+
+- title: "Energy Aware Persistence: Reducing the Energy Overheads of Persistent Memory"
+  authors: Sudarsun Kannan, Moinuddin K. Qureshi, Ada Gavrilovska and Karsten Schwan
+  conf:
+    preamble: Appears in the
+    fullname: IEEE Computer Architecture Letters
+    abbreviation: CAL
+    location: Issue 99, pp 89-92
+  date: August 2015
+  year: 2015
+  link:
+    url: http://ieeexplore.ieee.org/document/7222422/
+    display:
+
+- title: "Reducing Cache-Associated Context-Switch Performance Penalty Using Elastic Time Slicing"
+  authors: Nagakishore Jammula, Moinuddin Qureshi, Ada Gavrilovska and Jongman Kim
+  conf:
+    preamble: Appears in the
+    fullname: VMWare Technical Journal
+    abbreviation: 
+    location: Volume 4, pp 23-34
+  date: February 2015
+  year: 2015
+  link:
+    url: http://download3.vmware.com/software/vmw-tools/papers/VMTJ_issue_6.pdf
+    display:
+
+- title: "NVRAM-aware Logging in Transactional Systems"
+  authors: Jian Huang, Karsten Schwan and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in the Proceedings of the
+    fullname: Very Large Data Bases
+    abbreviation: VLDB
+    location: Endowment, Volume 8, Issue 4, pp 389-400 
+  date: December 2014
+  year: 2014
+  link: 
+    url: http://www.vldb.org/pvldb/vol8/p389-huang.pdf
+    display:
+
+
+- title: "Architectural Support for Mitigating Row Hammering in DRAM MemoriesRefresh Pausing in DRAM Memory Systems"
+  authors: Daehyun Kim, Prashant Nair and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in the
+    fullname: Computer Architecture Letters
+    abbreviation: CAL
+    location: Volume 14, pp 9-12
+  date: June 2014
+  year: 2014
+  link:
+    url: http://ieeexplore.ieee.org/abstract/document/6840960/
+    display:
+
+
+- title: "Refresh Pausing in DRAM Memory Systems"
+  authors: Prashant Nair, Chia-Chen Chou and Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in the
+    fullname: ACM Transactions on Architecture and Code Optimizations
+    abbreviation: TACO
+    location: Volume 11, pp 10-26
+  date: February 2014
+  year: 2014
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2579669
+    display:
+
+
+- title: "A Case for Non-Uniform Fault Tolerance in Emerging Memories"
+  authors: Moinuddin K. Qureshi
+  conf:
+    preamble: Appears in the
+    fullname: Intel Technology Journal
+    abbreviation: ITJ
+    location: Special Issue on Memory Resiliency, Volume 17 Issue 1, pp 166-182
+  date: June 2013
+  year: 2013
+  link:
+    url: https://www.intel.com/content/dam/www/public/us/en/documents/research/2013-vol17-iss-1-intel-technology-journal.pdf
+    display:
