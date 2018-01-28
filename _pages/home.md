@@ -20,11 +20,11 @@ We are a group of computer architects in the [School of Electrical and Computer 
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" alt="Slide 1" />
-	    <div class="caption" align="center"><b>Members of MemoryLab</b>: Moin, Mohammad, Swamit, Vinson, Gururaj, Jian and Prashant. (Missing - Chia-Chen, Sanjay). </div> 
+	    <div class="caption" align="center"><b>Members:</b> Moin, Mohammad, Swamit, Vinson, Gururaj, Jian and Prashant. (Missing - Chia-Chen, Sanjay). </div> 
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/raft1.jpg" alt="Slide 2" />
-	    <div class="caption" align="center"><b>Research or Rafting - We take it all with a smile !</b></div>
+	    <div class="caption" align="center"><b>Research or Rafting</b> - We take it all with a smile !<br /></div>
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
