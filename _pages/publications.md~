@@ -9,18 +9,53 @@ permalink: /publications/
 
 # Publications
 
+Jump to [Conferences](#conferences), [Journals](#journals). Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
+
+
+## Conferences
+{% assign curr_year = 0 %}
+
+{% for publi in site.data.publist_conf %}
+
+  {% if publi.year != curr_year %}
+#### {{ publi.year }}
+  {% assign curr_year = publi.year %}
+
+  {% endif %}
+  
+  <a href='{{ site.url }}{{ site.baseurl }}/papers/{{ publi.link.pdf }}' target="_blank">{{ publi.title }}</a> <br />
+  <em>{{ publi.authors }} </em><br />
+  {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> {% if publi.conf.abbreviation %} **({{ publi.conf.abbreviation }})** {% endif %}{% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}. {% if publi.link.slides %} \[<a href='{{ site.url }}{{ site.baseurl }}/slides/{{ publi.link.slides }}' target="_blank">slides</a>\]{% endif %} % if publi.other %}<br /><b>{{ publi.other }}</b> {% endif %}
+{% endfor %}
+
+## Journals
+{% assign curr_year = 0 %}
+
+
+{% for publi in site.data.publist_journal %}
+
+  {% if publi.year != curr_year %}
+#### {{ publi.year }}
+  {% assign curr_year = publi.year %}
+
+  {% endif %}
+
+  <a href='{{ site.url }}{{ site.baseurl }}/papers/{{ publi.link.pdf }}' target="_blank">{{ publi.title }}</a> <br />
+  <em>{{ publi.authors }} </em><br />
+  {{ publi.conf.preamble }} <u>{{ publi.conf.fullname }}</u> {% if publi.conf.abbreviation %} **({{ publi.conf.abbreviation }})** {% endif %}{% if publi.conf.location %}, {{ publi.conf.location }} {% endif %}, {{ publi.date }}.{% if publi.other %}<i><b>{{ publi.other }}</b></i> {% endif %}
+{% endfor %}
+
+
 {% comment %}
 ## Full List
-{% endcomment %}
-Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU0STsAAAAJ&hl=en&oi=sra), [DBLP](https://scholar.google.ch/citations?user=TqxYWZsAAAA)
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
+{% endcomment %}
 
 {% comment %}
 ## Highlights
@@ -63,3 +98,4 @@ Also available at [Google Scholar](https://scholar.google.com/citations?user=EWU
 
 <p> &nbsp; </p>
 {% endcomment %}
+

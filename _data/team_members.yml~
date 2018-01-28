@@ -10,9 +10,10 @@
   photo: mohammad.jpg
   info: Postdoc, started April 2017
   email: mohammad.arjomand@ece.gatech.edu
-  number_educ: 2
+  number_educ: 3
   education1: Ph.D. 2014 Sharif University of Technology
   education2: Previously Postdoc at Penn State University
+  education3: Working on Agile Storage Systems
 
 - name:  <a href='https://www.linkedin.com/in/vinson-young/'>Vinson Young</a>
   photo: vinson.jpg

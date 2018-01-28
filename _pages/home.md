@@ -40,14 +40,15 @@ To this end, we work on improving the performance of current memory hierarchies 
 
 We are located in the Klaus Advanced Computing Building at Georgia Tech. We also interact and work with other excellent groups in the building, working on a diverse set of areas like computer architecture, operating systems and security. 
 
-Check out our [projects]({{ site.url }}{{ site.baseurl }}/projects) and reach out if you find anything interesting! **We are always looking for passionate and talented PhD students and Postdocs to join our group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
- 
-Our research is funded by the generous support from [Intel](https://www.intel.com/content/www/us/en/homepage.html), [C-FAR](https://www.futurearchs.org/) and [NSF](https://www.nsf.gov/).
+Check out our [projects]({{ site.url }}{{ site.baseurl }}/projects) and reach out to us if you find anything interesting!
+
+Our research is funded by the generous support from [Intel](https://www.intel.com/content/www/us/en/homepage.html), [NSF](https://www.nsf.gov/), [SRC](https://www.src.org/) and [Microsoft](https://www.microsoft.com/en-us/).
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_intel.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CFAR.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SRC.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Microsoft.jpg" style="width: 90px">
 </figure>
 
 
