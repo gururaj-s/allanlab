@@ -19,10 +19,8 @@ We are a group of computer architects in the [School of Electrical and Computer 
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-	<figure>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group.jpg" alt="Slide 1" />
-	    <figcaption>Caption goes here</figcaption>
-	</figure>
+	    <div>caption text</div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/raft1.jpg" alt="Slide 2" />
