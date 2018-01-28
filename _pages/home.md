@@ -47,8 +47,8 @@ Our research is funded by the generous support from [Intel](https://www.intel.co
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_intel.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SRC.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Microsoft.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SRC.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Microsoft.png" style="width: 110px">
 </figure>
 
 
