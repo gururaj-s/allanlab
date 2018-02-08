@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a group of computer architects in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. Working under the guidance of [Prof. Moin Qureshi](https://moin.ece.gatech.edu/), our goal is to architect and design memory, storage and computing systems of the future. 
+We are a group of computer architects in the [School of Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. We work under the guidance of [Prof. Moin Qureshi](https://moin.ece.gatech.edu/). Our goal is to architect and design memory, storage and computing systems of the future. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -38,9 +38,9 @@ We are a group of computer architects in the [School of Electrical and Computer 
 </div>
 
 
-To this end, we work on improving the performance of current memory hierarchies with  3D Die-Stacked Memory and Non-Volatile Memory, designing resilient memory systems by enhancing their Reliability and Security and even architecting Quantum Computer Systems of the future. 
+To this end, we work on improving the performance of current memory hierarchies with  3D Die-Stacked Memory and Non-Volatile Memory, designing resilient memory systems by enhancing their Reliability and Security, and even architecting Quantum Computer Systems of the future. 
 
-We are located in the Klaus Advanced Computing Building at Georgia Tech. We also interact and work with other excellent groups in the building, working on a diverse set of areas like computer architecture, operating systems and security. 
+We are located in the Klaus Advanced Computing Building at Georgia Tech. We also interact and work with other excellent groups in the building, who also work on a diverse set of areas like computer architecture, operating systems, and security. 
 
 Check out our [projects]({{ site.url }}{{ site.baseurl }}/projects) and reach out to us if you find anything interesting!
 
