@@ -1,7 +1,7 @@
 ---
-title: "MemoryLab - Members"
+title: "Memory Systems Lab - Members"
 layout: gridlay
-excerpt: "MemoryLab: Members"
+excerpt: "Memory Systems Lab: Members"
 sitemap: false
 permalink: /members/
 ---

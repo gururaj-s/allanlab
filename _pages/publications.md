@@ -1,7 +1,7 @@
 ---
-title: "MemoryLab - Publications"
+title: "Memory Systems Lab - Publications"
 layout: gridlay
-excerpt: "MemoryLab -- Publications."
+excerpt: "Memory Systems Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

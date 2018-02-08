@@ -1,7 +1,7 @@
 ---
-title: "MemoryLab - Home"
+title: "Memory Systems Lab - Home"
 layout: homelay
-excerpt: "MemoryLab at Georgia Tech."
+excerpt: "Memory Systems Lab at Georgia Tech."
 sitemap: false
 permalink: /
 ---

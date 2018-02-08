@@ -1,7 +1,7 @@
 ---
-title: "MemoryLab - Projects"
+title: "Memory Systems Lab - Projects"
 layout: gridlay
-excerpt: "MemoryLab -- Projects"
+excerpt: "Memory Systems Lab -- Projects"
 sitemap: false
 permalink: /projects
 ---
