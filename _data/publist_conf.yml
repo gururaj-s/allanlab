@@ -1,7 +1,23 @@
+- title: "ACCORD: Enabling Associativity for Gigascale DRAM Caches by Coordinating Way-Install and Way-Prediction"
+  authors: Vinson Young, Chia-Chen Chou, Aamer Jaleel, Moinuddin K. Qureshi
+  conf:
+    preamble: To Appear in Proceedings of the 
+    fullname: 45th Annual International Symposium on Computer Architecture
+    abbreviation: ISCA
+    location: Los Angeles, CA, USA
+  date: June, 2018
+  year: 2018
+  link:
+    pdf: 
+    slides: 
+    url: 
+    display:
+
+
 - title: "SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories"
   authors: Gururaj Saileshwar, Prashant Nair, Prakash Ramrakhyani, Wendy Elssaser and Moinuddin K. Qureshi
   conf:
-    preamble: To appear in Proceedings of the 
+    preamble: Appears in Proceedings of the 
     fullname: 2018 IEEE International Symposium on High Performance Computer Architecture
     abbreviation: HPCA
     location: Vienna, Austria
@@ -9,6 +25,7 @@
   year: 2018
   link:
     pdf: HPCA_2018_1.pdf
+    slides: HPCA_2018_1_slides.pptx
     url: http://www.prism.gatech.edu/~gsaileshwar3/papers/hpca2018_synergy.pdf
     display:
 
