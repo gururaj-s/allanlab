@@ -1,3 +1,33 @@
+- title: "Morphable Counters: Enabling Compact Integrity-Trees for Low-Overhead Secure Memories"
+  authors: Gururaj Saileshwar, Prashant Nair, Prakash Ramrakhyani, Wendy Elssaser, Jose Joao and Moinuddin K. Qureshi
+  conf:
+    preamble: To Appear in Proceedings of the 
+    fullname: 51st Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Fukuoka, Japan
+  date: October, 2018
+  year: 2018
+  link:
+    pdf: 
+    slides: 
+    url: 
+    display:
+
+- title: "CEASER: Mitigating Eviction-Based Cache Attacks via Dynamically Encrypted Address"
+  authors: Moinuddin K. Qureshi
+  conf:
+    preamble: To Appear in Proceedings of the 
+    fullname: 51st Annual IEEE/ACM International Symposium on Microarchitecture
+    abbreviation: MICRO
+    location: Fukuoka, Japan
+  date: October, 2018
+  year: 2018
+  link:
+    pdf: 
+    slides: 
+    url: 
+    display:
+
 - title: "ACCORD: Enabling Associativity for Gigascale DRAM Caches by Coordinating Way-Install and Way-Prediction"
   authors: Vinson Young, Chia-Chen Chou, Aamer Jaleel, Moinuddin K. Qureshi
   conf:
@@ -8,7 +38,7 @@
   date: June, 2018
   year: 2018
   link:
-    pdf: 
+    pdf: ISCA_2018_1.pdf
     slides: 
     url: 
     display:
@@ -26,7 +56,7 @@
   link:
     pdf: HPCA_2018_1.pdf
     slides: HPCA_2018_1_slides.pptx
-    url: http://www.prism.gatech.edu/~gsaileshwar3/papers/hpca2018_synergy.pdf
+    url: https://ieeexplore.ieee.org/document/8327029/
     display:
 
 
